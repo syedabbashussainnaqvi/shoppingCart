@@ -58,7 +58,7 @@ class App extends Component {
         products: persons,
         filterData: persons,
         isLoading: false
-      });
+      })
     });
   }
   //filtering data on the basis of size (XL, L, S)
